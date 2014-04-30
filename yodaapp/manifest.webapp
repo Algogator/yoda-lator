@@ -1,0 +1,18 @@
+{
+  "version": "1.0",
+  "name": "Yoda-lator",
+  "description": "Talk like Yoda!",
+  "launch_path": "/index.html",
+  "icons": {
+    "16": "/img/icons/mortar-16.png",
+    "48": "/img/icons/mortar-48.png",
+    "60": "/img/icons/mortar-60.png",
+    "128": "/img/icons/mortar-128.png"
+  },
+  "developer": {
+    "name": "Anna Philips",
+    "url": "jodanna.org"
+  },
+  "installs_allowed_from": ["*"],
+  "default_locale": "en"
+}
